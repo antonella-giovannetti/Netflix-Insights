@@ -22,9 +22,7 @@ Pour résumer, les algorithmes de Machine Learning apprennent de manière autono
 Le rôle des algorithmes de classification utilisés en machine learning, permettent au logiciel d’apprendre en toute autonomie à partir de plusieurs ensembles de données.
 &nbsp;
 L’idée est alors de classifier les différents éléments d’un jeu de données en plusieurs catégories. Ces dernières regroupent les datas en fonction de leur similarité. Comme les datas présentent des caractéristiques communes, il est plus facile de prédire leur comportement.
-
 &nbsp;
-
 Ces différents modèles d’apprentissage peuvent donc être utilisés pour l’analyse des données et pour l’analyse prédictive.
 
 #### L’apprentissage supervisé
@@ -48,3 +46,26 @@ Les intelligences artificielles servent aujourd’hui dans plusieurs domaines. L
 * Aide les médecins à diagnostiquer des maladies. Des modèles d'apprentissage automatique sont formés sur de grandes quantités de données médicales, telles que des images médicales ou des données de laboratoire, afin d'identifier des modèles et de fournir des recommandations de diagnostic plus précises.
 * Accélération de la recherche médicale. Elle peut aider à analyser de grandes quantités de données scientifiques, à identifier des modèles et des relations complexes, et à faire des prédictions pour le développement de médicaments, la découverte de biomarqueurs et la compréhension des maladies.
 * Détection des signes précurseurs de maladies. Par exemple, des algorithmes basés sur l'IA peuvent analyser les données des patients, telles que les antécédents médicaux, les symptômes et les résultats de tests, pour identifier les risques potentiels de maladies telles que le cancer, les maladies cardiaques ou le diabète.
+
+
+## Analyse des données Netflix
+
+### Présentation et contexte du projet 
+Je procéde à l'analyse et la visualisation de données des séries TV et des films sur Netflix grâce à des données stockés sur un fichier csv. Il contient 12 variables et 105 684 observations.
+
+##### Descriptions des variables
+* show_id -> Id 
+* type -> Série ou Film 
+* title -> Titre de la série ou du film
+* director -> Réalisateur 
+* cast -> Distribution 
+* country -> Pays ou a été réalisé le film ou la série 
+* date_added -> Date d'ajout sur Netflix
+* release_year -> Date de réalisation
+* rating -> Classification en fonction de l'âge du spectateur 
+* duration -> Durée en heure si c'est un film en saison si c'est une série 
+* listed_in -> Catégories 
+* description -> Résumé 
+
+## Observations et conclusions de l'analyse de donnée
+
