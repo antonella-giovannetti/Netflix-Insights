@@ -6,29 +6,21 @@
 
 l’IA est une discipline d’une soixantaine d’années, qui réunit des sciences, théories et techniques (notamment logique mathématique, statistiques, probabilités, neurobiologie computationnelle et informatique)
 Il n’existe pas de définition universellement admise de l’IA. L’encyclopédie du Larousse se contente d’évoquer l’« ensemble de théories et de techniques mises en œuvre en vue de réaliser des machines capables de simuler l’intelligence humaine ». Cette notion de simulation ou parfois d’imitation du cerveau est centrale.
-
 &nbsp;
-
 De manière très concrète, une IA est un programme informatique codé pour réaliser automatiquement des tâches, à partir de la collecte et du traitement de données. Ce programme doit aboutir à l’accomplissement d’une tâche spécifique : modifier une image, reconnaître un visage, obtenir le résultat d’une équation. Cela se traduit par un apprentissage, un entraînement.
 
 ### Qu’est ce que le machine learning ? 
 
 Le Machine Learning ou apprentissage automatique est un domaine scientifique, et plus particulièrement une sous catégorie de l’intelligence artificielle. Elle consiste à laisser des algorithmes découvrir des  “patterns”, à savoir des motifs récurrents, dans les ensembles de données. Ces données peuvent être des chiffres, des mots, des images, des statistiques…
-
 &nbsp;
-
 Tout ce qui peut être stocké numériquement peut servir de données pour le Machine Learning. En décelant les patterns dans ces données, les algorithmes apprennent et améliorent leurs performances dans l’exécution d’une tâche spécifique.
-
 &nbsp;
-
 Pour résumer, les algorithmes de Machine Learning apprennent de manière autonome à effectuer une tâche ou à réaliser des prédictions à partir de données et améliorent leurs performances au fil du temps. Une fois entraîné, l’algorithme pourra retrouver les patterns dans de nouvelles données.
 
 ### Algorithme de classification 
 
 Le rôle des algorithmes de classification utilisés en machine learning, permettent au logiciel d’apprendre en toute autonomie à partir de plusieurs ensembles de données.
-
 &nbsp;
-
 L’idée est alors de classifier les différents éléments d’un jeu de données en plusieurs catégories. Ces dernières regroupent les datas en fonction de leur similarité. Comme les datas présentent des caractéristiques communes, il est plus facile de prédire leur comportement.
 
 &nbsp;
@@ -47,7 +39,7 @@ Avec l’apprentissage non supervisé, l’algorithme est entraîné sur des don
 
 L’analyse descriptive consiste à synthétiser des données historiques afin d'en tirer des informations utiles (insights). Elle répond à la question « Que s’est-il passé ? » ,  en tirant des conclusions à partir de grands jeux de données brutes. Les résultats sont ensuite visualisés sous forme de descriptions générées, de graphiques linéaires, de tableaux, de diagrammes circulaires et de graphiques à barres faciles à comprendre. Cela nous aide à comprendre les modèles et les tendances des données, afin que nous puissions prendre de meilleures décisions sur ce qu'il faut faire ensuite.
 
-### Exemple d’utilisation de l’I.A 
+### Exemples d’utilisation de l’I.A 
 
 Les intelligences artificielles servent aujourd’hui dans plusieurs domaines. Le niveau de perfectionnement de l’IA varie grandement selon son usage. Quelques exemples dans les domaines de l’environnement et de la santé : 
 * L'optimisation de la gestion des déchets en aidant à la collecte, au tri et au recyclage. Par exemple, des robots basés sur l'IA peuvent être utilisés pour trier les déchets de manière plus efficace en utilisant la vision par ordinateur pour reconnaître les différents types de matériaux.
